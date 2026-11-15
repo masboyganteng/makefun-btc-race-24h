@@ -1,8 +1,8 @@
 # EMA Trend Rider — BTC 24h
 
-[![make.fun](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/c/btc-race-24h-20261115-0828)
-[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/rank.svg)](https://make.fun/c/btc-race-24h-20261115-0828)
-[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/reward.svg)](https://make.fun/c/btc-race-24h-20261115-0828)
+[![make.fun](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828)
 
 A deterministic, long-only trend-following bot that trades Coinbase
 Wrapped BTC (cbBTC) against USDC on 1-minute bars, built for the
